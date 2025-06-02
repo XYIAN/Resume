@@ -12,8 +12,7 @@ In this folder you can find or download my most recent resume or see resumes fro
 - [Schedule a call or interview](https://kyledilbeck.com/booking) 
 - [LinkedIn](https://linkedin.com/in/kxdilbeck)
 - [Kyle Dilbeck Portfolio (personal site)](https://kyledilbeck.com) contains detailed work history, resume download, booking, contact info and more. 
-- [Xyian Company Website](https://xyian.com) Looking for a group of developers to bend to your will and create awesome apps? Check out xyian.com or email <a href="mailto:support@xyian.com">Support@XYIAN.com</a>
 - [Instagram](https://instagram.com/softwarekyle)
-- [XYIAN Instagram](https://instagram.com/xyiansoftware)
+
 
 ![headshot - 1](https://github.com/user-attachments/assets/a4c77872-b5e3-4b45-8f2d-d5ef33e21895)
